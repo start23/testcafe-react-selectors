@@ -79,7 +79,7 @@ gulp.task('test', ['build', 'build-test-app'], function () {
             .then(testCafe => {
                 return testCafe.createRunner()
                     .src(files)
-                    .browsers(['chrome', 'firefox', 'ie'])
+                    .browsers(['chrome'])
                     .reporter('list')
                     .run();
             })

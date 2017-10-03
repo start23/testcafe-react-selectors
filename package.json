@@ -2,14 +2,13 @@
   "name": "@pmh/testcafe-react-selectors",
   "version": "1.0.0",
   "description": "ReactJS selectors for TestCafe",
-  "repository": "https://github.com/DevExpress/testcafe-react-selectors",
+  "repository": "https://github.com/start23/testcafe-react-selectors",
   "main": "lib/index",
   "files": [
     "lib"
   ],
   "author": {
-    "name": "Developer Express Inc.",
-    "url": "https://devexpress.com"
+    "name": "Developer Express Inc., Postmedia IO"
   },
   "license": "MIT",
   "devDependencies": {

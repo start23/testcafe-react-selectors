@@ -1,5 +1,5 @@
 {
-  "name": "testcafe-react-selectors",
+  "name": "@pmh/testcafe-react-selectors",
   "version": "1.0.0",
   "description": "ReactJS selectors for TestCafe",
   "repository": "https://github.com/DevExpress/testcafe-react-selectors",
@@ -32,9 +32,7 @@
     "testcafe": "*"
   },
   "scripts": {
-    "test": "gulp test",
-    "publish-please": "publish-please",
-    "prepublish": "publish-please guard"
+    "test": "gulp test"
   },
   "keywords": [
     "testcafe",

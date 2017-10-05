@@ -1,5 +1,5 @@
 {
-  "name": "@pmh/testcafe-react-selectors",
+  "name": "testcafe-react-selectors",
   "version": "1.0.0",
   "description": "ReactJS selectors for TestCafe",
   "repository": "https://github.com/start23/testcafe-react-selectors",

@@ -48,5 +48,7 @@ Temporary Items
 
 node_modules/*
 .idea/*
-lib/*
+src/*
+test/*
+ts-defs/*
 test/data/lib/*
